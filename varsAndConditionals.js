@@ -49,6 +49,8 @@ while (harryHealth > 0) {
     console.log(`harry health ${harryHealth}`);
 }
 
+console.log(`making some git stuff`);
+
 // for(let i = 0; i < 100; i +=1){
 //     harryHealth -= voldemortAttack;
 //     console.log(`uh oh: ${harryHealth}`);
